@@ -3,4 +3,4 @@
 # IDM-Idle-Window-Fix
 Remove the annoying IDM idle window upon startup
 
-[header]: https://imgur.com/a/Rzt3xHf.png "Repo header"
+[header]: https://i.imgur.com/a/Rzt3xHf "Repo header"
