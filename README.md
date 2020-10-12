@@ -58,5 +58,5 @@ Feel free to contact me regarding anything you need help with! 🤍  <br>
   
 [1]: http://www.twitter.com/bB_Sempai
 [2]: https://instagram.com/_bhavya8083
-[3]: https://bbwhacker0805@gmail.com
+[3]: mailto:bbwhacker0805@gmail.com
 
