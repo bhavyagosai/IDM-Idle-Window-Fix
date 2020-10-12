@@ -7,6 +7,8 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+;----------------------MAIN CODE STARTS HERE--------------------------------
+
 ;Enter your IDM exe file directory here if it don't match the initial directory given below.
 Run, C:\Program Files (x86)\Internet Download Manager\IDMan.exe
 
