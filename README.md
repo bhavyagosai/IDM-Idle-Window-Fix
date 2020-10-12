@@ -23,8 +23,10 @@ For Crack -> Let CHROME run in background during installation so that it detects
 - Setup your AHK file according to the details provided in the [.AHK file](https://github.com/bBSempai/IDM-Idle-Window-Fix/blob/master/idm.ahk)
 
 - Set your AHK file to run automatically on startup everytime you boot. If you already don't know how then just follow these instructions:
-  - RUN shell:startup 
+  - RUN shell:startup <br>
+  <img src = "https://i.imgur.com/Umr4unL.jpeg" /> <br> <br>
   - It will open this directory -> (C:\Users\<NAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+  <img src = "https://i.imgur.com/EY22e9A.png"/> <br> <br>
   - If the directory (Startup Folder) doesn't already exist...THEN MAKE ONE 🙂 
   - Place your .AHK file **shortcut** in this directory. Now your AHK file will run on startup.
   
