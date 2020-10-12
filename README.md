@@ -2,9 +2,9 @@
 <img src = "https://i.imgur.com/PfM6zqI.png"/>
 </div>
 
-# IDM-Idle-Window-Fix
+<h1 align="center"> IDM-Idle-Window-Fix</h1>
 
-Remove the annoying IDM idle window upon startup
+<p align ="center">Remove the annoying IDM idle window upon startup</p>
 
 ## Requirements
 
@@ -31,3 +31,16 @@ For Crack -> Let CHROME run in background during installation so that it detects
   - Place your .AHK file **shortcut** in this directory. Now your AHK file will run on startup.
   
   VOILA! It should work now check it out yourself by restarting your setup!
+  
+## NOTE
+
+- AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK. <br> 
+Contributions regarding that are most Welcome!
+
+## Contact Us
+
+- Feel Free to contact me regarding anything you need <3
+
+- [Tweet]()
+- [Instagram]()
+- [Email Me]()
