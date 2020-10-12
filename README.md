@@ -24,22 +24,26 @@ For Crack -> Let CHROME run in background during installation so that it detects
 
 - Set your AHK file to run automatically on startup everytime you boot. If you already don't know how then just follow these instructions:
   - RUN shell:startup <br>
-  <img src = "https://i.imgur.com/Umr4unL.jpeg" /> <br> <br>
+  
+  <img src = "https://i.imgur.com/Umr4unL.jpeg" /> <br> 
+  
   - It will open this directory -> (C:\Users\<NAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
-  <img src = "https://i.imgur.com/EY22e9A.png"/> <br> <br>
+  
+  <img src = "https://i.imgur.com/EY22e9A.png"/> <br>
+  
   - If the directory (Startup Folder) doesn't already exist...THEN MAKE ONE 🙂 
   - Place your .AHK file **shortcut** in this directory. Now your AHK file will run on startup.
   
   VOILA! It should work now check it out yourself by restarting your setup!
   
-## NOTE
+## Contributions
 
-- AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK. <br> 
-Contributions regarding that are most Welcome!
+- AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK. <br>
+Contributions regarding everything are most Welcome!
 
 ## Contact Me
 
-- Feel free to contact me regarding anything you need <3 <br>
+Feel free to contact me regarding anything you need <3 <br>
 
 [![alt text][1.1]][1]
 [![alt text][1.2]][2]
