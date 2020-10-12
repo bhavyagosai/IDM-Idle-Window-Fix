@@ -13,6 +13,11 @@
 
 ## Instructions 
 
+- Clone the repository or download the ZIP file.
+```
+$ git clone https://github.com/bBSempai/IDM-Idle-Window-Fix.git
+```
+
 - Install IDM if you haven't already. <br>
 For Crack -> Let CHROME run in background during installation so that it detects IDM and adds it to your extensions. Run Crack after.
 
