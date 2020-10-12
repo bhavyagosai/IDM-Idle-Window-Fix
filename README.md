@@ -39,12 +39,10 @@ Contributions regarding that are most Welcome!
 
 ## Contact Me
 
-- Feel free to contact me regarding anything you need <3
-
-
- [![alt text][1.1]][1]
- [![alt text][1.2]][2] 
- [![alt text][1.3]][3] 
+- Feel free to contact me regarding anything you need <3 <br>
+                      [![alt text][1.1]][1]
+                      [![alt text][1.2]][2] 
+                        [![alt text][1.3]][3] 
 
   
   [1.1]: https://i.imgur.com/Ko37Ix0.png
