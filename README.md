@@ -40,17 +40,18 @@ Contributions regarding that are most Welcome!
 ## Contact Me
 
 - Feel free to contact me regarding anything you need <3 <br>
-                      [![alt text][1.1]][1]
-                      [![alt text][1.2]][2] 
-                        [![alt text][1.3]][3] 
 
+[![alt text][1.1]][1]
+[![alt text][1.2]][2]
+[![alt text][1.3]][3] 
+
+ 
+[1.1]: https://i.imgur.com/Ko37Ix0.png
+[1.2]: https://i.imgur.com/IJhO9la.png 
+[1.3]: https://i.imgur.com/V7Bifan.png
   
-  [1.1]: https://i.imgur.com/Ko37Ix0.png
-  [1.2]: https://i.imgur.com/IJhO9la.png 
-  [1.3]: https://i.imgur.com/V7Bifan.png
   
-  
-  [1]: http://www.twitter.com/bB_Sempai
-  [2]: https://instagram.com/_bhavya8083
-  [3]: bbwhacker0805@gmail.com
+[1]: http://www.twitter.com/bB_Sempai
+[2]: https://instagram.com/_bhavya8083
+[3]: https://bbwhacker0805@gmail.com
 
