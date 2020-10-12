@@ -38,12 +38,13 @@ For Crack -> Let CHROME run in background during installation so that it detects
   
 ## Contributions
 
-- AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK. <br>
+AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK. <br>
+
 Contributions regarding everything are most Welcome!
 
 ## Contact Me
 
-Feel free to contact me regarding anything you need <3 <br>
+Feel free to contact me regarding anything you need help with! 🤍  <br>
 
 [![alt text][1.1]][1]
 [![alt text][1.2]][2]
