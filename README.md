@@ -6,6 +6,8 @@
 
 ## Requirements
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2b616e5d100a449ebe2109e9dfc52115)](https://app.codacy.com/gh/bBSempai/IDM-Idle-Window-Fix?utm_source=github.com&utm_medium=referral&utm_content=bBSempai/IDM-Idle-Window-Fix&utm_campaign=Badge_Grade)
+
 - [Internet Download Manager (IDM) Extension](internetdownloadmanager.com) (For Full Version refer-> [HERE](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM))
 - [AutoHotKey (AHK)](https://www.autohotkey.com)
 
