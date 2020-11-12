@@ -1,13 +1,12 @@
 <div align = "center">
 <img src = "https://i.imgur.com/PfM6zqI.png"/>
 </div>
-
 <h1 align="center"> IDM-Idle-Window-Fix</h1><br>
 <p align ="center">Remove the annoying IDM idle window upon startup</p><br>
 
 ## Requirements
 
--   [Internet Download Manager (IDM) Extension](internetdownloadmanager.com) (For Full Version refer-> [HERE](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM))
+- [Internet Download Manager (IDM) Extension](internetdownloadmanager.com) (For Full Version refer-> [HERE](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM))
 - [AutoHotKey (AHK)](https://www.autohotkey.com)
 
 ## Instructions 
