@@ -1,8 +1,8 @@
 <div align = "center">
 <img src = "https://i.imgur.com/PfM6zqI.png"/>
 </div>
-<h1 align="center"> IDM-Idle-Window-Fix</h1><br>
-<p align ="center">Remove the annoying IDM idle window upon startup</p><br>
+<h1 align="center"> IDM-Idle-Window-Fix</h1>
+<p align ="center">Remove the annoying IDM idle window upon startup</p>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2b616e5d100a449ebe2109e9dfc52115)](https://app.codacy.com/gh/bBSempai/IDM-Idle-Window-Fix?utm_source=github.com&utm_medium=referral&utm_content=bBSempai/IDM-Idle-Window-Fix&utm_campaign=Badge_Grade)
 
