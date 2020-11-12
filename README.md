@@ -7,7 +7,7 @@
 
 ## Requirements
 
-- [Internet Download Manager (IDM) Extension](internetdownloadmanager.com) (For Full Version refer-> [HERE](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM))
+-   [Internet Download Manager (IDM) Extension](internetdownloadmanager.com) (For Full Version refer-> [HERE](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM))
 - [AutoHotKey (AHK)](https://www.autohotkey.com)
 
 ## Instructions 
