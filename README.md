@@ -1,7 +1,7 @@
 <div align = "center">
 <img src = "https://i.imgur.com/PfM6zqI.png"/>
 </div>
-<h1 align="center"> IDM-Idle-Window-Fix</h1>
+<h1 align="center">IDM-Idle-Window-Fix</h1>
 <p align ="center">Remove the annoying IDM idle window upon startup</p>
 
 <p align = "center">
@@ -54,18 +54,29 @@
 
 AHK is not supported in MacOS as of now. There is something called [Keyboard Maestro](http://www.keyboardmaestro.com/main/) which works for MacOS similar to AHK.<br><br>Contributions regarding everything are most Welcome!
 
-## Contact Me
+<h2 align="center">Contact Me</h2>
 
-Feel free to contact me regarding anything you need help with! 🤍<br>
+<p align="center">Feel free to contact me regarding anything you need help with! 🤍</p>
 
-[![Twitter][1.1]][1]
-[![Instagram][1.2]][2]
-[![Mail][1.3]][3]
-
-[1.1]:https://i.imgur.com/Ko37Ix0.png
-[1.2]:https://i.imgur.com/IJhO9la.png 
-[1.3]:https://i.imgur.com/V7Bifan.png
+<p align="center">
+  <a href="http://www.twitter.com/bB_Sempai">
+    <img src="https://i.imgur.com/Ko37Ix0.png"/>
+  </a>
+  <a href="https://instagram.com/_bhavya8083">
+    <img src="https://i.imgur.com/IJhO9la.png"/>
+  </a>
+  <a href="mailto:bbwhacker0805@gmail.com">
+    <img src="https://i.imgur.com/V7Bifan.png"/>
+  </a>
+</p>
+<br>
+<p align="center">
+  <i>Feel free to open an issue and communicate!</i><br><br>
+</p>
   
-[1]:http://www.twitter.com/bB_Sempai
-[2]:https://instagram.com/_bhavya8083
-[3]:mailto:bbwhacker0805@gmail.com
+  <a href="https://github.com/bBSempai/IDM-Idle-Window-Fix/issues/new/">
+    <img align="right" src="https://i.imgur.com/aFPA0IK.png" height="74" width="175"/>
+  </a>
+  <a href="https://github.com/bBSempai/IDM-Idle-Window-Fix/issues/new/">
+    <img src="https://i.imgur.com/KLcMpp8.png" height="74" width="262"/>
+  </a>
