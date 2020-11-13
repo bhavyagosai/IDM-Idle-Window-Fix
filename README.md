@@ -75,8 +75,8 @@ AHK is not supported in MacOS as of now. There is something called [Keyboard Mae
 </p>
   
   <a href="https://github.com/bBSempai/IDM-Idle-Window-Fix/issues/new/">
-    <img align="right" src="https://i.imgur.com/0WUcYZn.png" height="74" width="175"/>
+    <img align="right" src="https://i.imgur.com/nTqHt3V.png" height="74" width="180"/>
   </a>
-  <a href="https://github.com/bBSempai/IDM-Idle-Window-Fix/issues/new/">
-    <img src="https://i.imgur.com/KLcMpp8.png" height="74" width="262"/>
+  <a href="https://discord.gg/ZutFRb7">
+    <img align="left" src="https://i.imgur.com/KLcMpp8.png" height="74" width="220"/>
   </a>
