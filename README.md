@@ -71,7 +71,7 @@ AHK is not supported in MacOS as of now. There is something called [Keyboard Mae
 </p>
 <br>
 <p align="center">
-  <i>Feel free to open an issue and communicate!</i><br><br>
+  <b><i>Feel free to open an issue and communicate!</i></b><br>
 </p>
   
   <a href="https://github.com/bBSempai/IDM-Idle-Window-Fix/issues/new/">
