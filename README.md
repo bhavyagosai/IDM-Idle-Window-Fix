@@ -69,7 +69,7 @@ AHK is not supported in MacOS as of now. There is something called [Keyboard Mae
     <img src="https://i.imgur.com/V7Bifan.png"/>
   </a>
 </p>
-<br>
+
 <p align="center">
   <b><i>Feel free to open an issue and communicate!</i></b><br>
 </p>
