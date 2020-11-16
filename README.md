@@ -40,7 +40,7 @@
 - After installing IDM, it will already be in your autostart, meaning it will now launch automatically on boot. Stop that from happening by clicking [here.](https://www.betterhostreview.com/stop-programs-from-launching-automatically-windows-10.html) This is because we have to set up IDM Autostart manually.
 - Install [AHK](https://www.autohotkey.com) if you haven't already. Get a little familiar with it if possible :\
 - Setup your AHK file according to the details provided in the [.AHK file](https://github.com/bBSempai/IDM-Idle-Window-Fix/blob/master/idm.ahk)
-- Set your AHK file to run automatically on startup everytime you boot. If you already don't know how then just follow these instructions:
+- Set your AHK file to run automatically on startup everytime you boot. If you already don't know how to then just follow these instructions:
   - RUN shell:startup<br><br>
   <img src = "https://i.imgur.com/Umr4unL.jpeg" /><br><br>
   - It will open this directory -> (C:\Users\<NAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)<br><br>
