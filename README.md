@@ -39,7 +39,7 @@
 
 ```$ git clone https://github.com/bBSempai/IDM-Idle-Window-Fix.git```
 
-- Install [IDM](https://github.com/bBSempai/IDM-Idle-Window-Fix/tree/master/IDM) if you haven't already.<br>Let CHROME run in background during installation so that it detects IDM and adds it to your extensions.
+- Install IDM if you haven't already.<br>Let CHROME run in background during installation so that it detects IDM and adds it to your extensions.
 - After installing IDM, it will already be in your autostart, meaning it will now launch automatically on boot. Stop that from happening by clicking [here.](https://www.betterhostreview.com/stop-programs-from-launching-automatically-windows-10.html) This is because we have to set up IDM Autostart manually.
 - Install [AHK](https://www.autohotkey.com) if you haven't already. Get a little familiar with it if possible :\
 - Setup your AHK file according to the details provided in the [.AHK file](https://github.com/bBSempai/IDM-Idle-Window-Fix/blob/master/idm.ahk)
